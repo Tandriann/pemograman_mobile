@@ -1,6 +1,9 @@
 # flutter_application_1
 
-A new Flutter project.
+Pertemuan 2
+
+- membuat app sederhana Hello World
+- memahami widget dan elemen
 
 ## Getting Started
 
